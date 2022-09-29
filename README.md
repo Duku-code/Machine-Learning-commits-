@@ -1,4 +1,4 @@
-Supervised Machine model with LogisticRegression Alogrithm 
+Supervised Machine Learning model with LogisticRegression Alogrithm 
 Pimah Indians Diabetes
 Exploratory anaysis using Pandas, numpy 
 Explore the dataset using plots matplotlib and seaborn 
