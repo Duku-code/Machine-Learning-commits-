@@ -1,1 +1,1 @@
-Machine learning algorithms for solving real world problem
+Machine learning algorithms for solving real world problems
